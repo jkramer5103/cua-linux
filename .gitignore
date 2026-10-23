@@ -1,0 +1,9 @@
+.local/
+vendor/
+__pycache__/
+artifacts/
+.env
+.env.*
+*.pem
+*.key
+.venv/
