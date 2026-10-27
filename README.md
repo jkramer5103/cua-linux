@@ -1,7 +1,14 @@
 # CUA Linux
 
-Native Linux app control over MCP, with a normal Cinnamon taskbar window
-showing live activity. Browser control is deliberately excluded.
+**Real background computer use on your Linux PC.** Let an AI agent launch
+and operate real desktop apps while you keep using your computer. App windows
+and input run on a private display, leaving your desktop mouse and keyboard
+available to you. A native GTK viewer lets you watch the agent work live.
+
+CUA Linux exposes this through MCP for coding agents. Sessions run on your
+actual machine, with access to its filesystem and network; the private display
+isolates GUI input, not the rest of the system. Browser control is deliberately
+excluded.
 
 ## How it works
 
